@@ -462,9 +462,10 @@
                         quaerat fuga sint molestiae illo corrupti vitae voluptatibus. Dicta rerum est delectus
                         perspiciatis nemo nihil autem! Doloremque?</p>
                     <br>
-                    <p>Email: example@mail.com</p>
-                    <p>Phone: +00 123 456 789</p>
-                    <p>Website: freshfood.com</p>
+                    <p>Email: peterkyalo69@mail.com</p>
+                    <p>Phone: +254705376543</p>
+                    <p>Website: https://http://food-responsive-app.herokuapp.com</p>
+                    <p>&copy; 2020 PTechie<p>
                 </div>
                 <div class="col-2 col-xs-12">
                     <h1>
