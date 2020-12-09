@@ -12,7 +12,7 @@
         rel="stylesheet">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="assets/logo_VMm_icon.ico" type="image/x-icon" />
     <script data-ad-client="ca-pub-4349699257963910" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   
 </head>
